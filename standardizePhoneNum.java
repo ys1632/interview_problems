@@ -3,7 +3,7 @@
  * Write your code in it, and save it before submitting your answer.
  */
 
-public class Answer
+public class standardizePhoneNum
 {
 
     /**
