@@ -1,3 +1,5 @@
+//given a BST, find out the min sum path to the leaf node
+
 #include <iostream>
 
 using namespace std;

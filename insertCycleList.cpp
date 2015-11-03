@@ -1,3 +1,5 @@
+//given a random node in a sorted cycle list and a integer n, insert n into the list 
+
 #include <iostream>
 
 using namespace std;
